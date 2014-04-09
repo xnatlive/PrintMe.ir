@@ -1,0 +1,372 @@
+---------- Date: 2013-07-08 02:02:08 ~ IP : 66.249.75.80 ----------
+REQUEST URI : /robots.txt
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 05:05:18 ~ IP : 157.55.33.125 ----------
+REQUEST URI : /robots.txt
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 05:05:52 ~ IP : 157.55.33.125 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 08:12:08 ~ IP : 54.226.224.141 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 08:29:59 ~ IP : 66.249.75.237 ----------
+REQUEST URI : /robots.txt
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 08:29:59 ~ IP : 66.249.75.237 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:04:10 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:12:06 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:12:20 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=4
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:42:41 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=6
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:46:07 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=5
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:46:21 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=information/contact
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:47:48 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=5
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 09:53:11 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=account/return/insert
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 10:50:57 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 12:07:59 ~ IP : 183.91.14.60 ----------
+REQUEST URI : http://www.google.com/
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:02:54 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:03:11 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /index.php?route=product/search&amp;search=steve
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:03:20 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=191&amp;search=steve
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:03:21 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:03:25 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /index.php?route=product/search&amp;search=steve
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:03:28 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=85&amp;search=steve
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:03:29 ~ IP : 99.239.78.84 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 13:37:38 ~ IP : 74.14.237.68 ----------
+REQUEST URI : /index.php?route=information/contact
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 16:49:03 ~ IP : 157.55.33.125 ----------
+REQUEST URI : /robots.txt
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 16:49:54 ~ IP : 157.55.33.125 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 17:20:54 ~ IP : 89.248.171.125 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 20:24:24 ~ IP : 213.172.21.125 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 21:46:06 ~ IP : 213.172.21.125 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 22:56:57 ~ IP : 66.249.75.80 ----------
+REQUEST URI : /robots.txt
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
+---------- Date: 2013-07-08 22:56:57 ~ IP : 66.249.75.80 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /opt/bitnami/apache2/htdocs/vqmod/xml/uksb_google_merchant.xml
+   id        : UKSB Google Merchant
+   version   : 3.8.0
+   vqmver    : 2.1.5
+   author    : http://www.opencart-extensions.co.uk
+SEARCH NOT FOUND (ABORTING MOD): $sql = "SELECT p.product_id, (SELECT AVG(rating) AS total FROM " . DB_PREFIX . "review r1 WHERE r1.product_id = p.product_id AND r1.status = '1' GROUP BY r1.product_id) AS rating FROM " . DB_PREFIX . "product p LEFT JOIN " . DB_PREFIX . "product_description pd ON (p.product_id = pd.product_id) LEFT JOIN " . DB_PREFIX . "product_to_store p2s ON (p.product_id = p2s.product_id) WHERE pd.language_id = '" . (int)$this->config->get('config_language_id') . "' AND p.status = '1' AND p.date_available <= NOW() AND p2s.store_id = '" . (int)$this->config->get('config_store_id') . "'";
+----------------------------------------------------------------------
+
+
